@@ -1,4 +1,4 @@
-Qubit-reuse plugin is used to create dynamic circuits from static circuits.
+Qubit-reuse plugin is used to create dynamic circuits from static circuits. The fidelities are state fidelities, not gate fidelities.
 
 Versions used are:
 Jupyter notebook>=7.2.0
